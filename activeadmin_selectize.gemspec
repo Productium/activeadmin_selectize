@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.summary       = 'Selectize for ActiveAdmin'
   spec.description   = 'An Active Admin plugin to use Selectize.js (jQuery required)'
   spec.license       = 'MIT'
-  spec.authors       = ['Mattia Roccoberton']
-  spec.email         = 'mat@blocknot.es'
-  spec.homepage      = 'https://github.com/blocknotes/activeadmin_selectize'
+  spec.authors       = ['productium']
+  spec.email         = 'productiumapp@gmail.com'
+  spec.homepage      = 'https://github.com/productium/activeadmin_selectize'
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.require_paths = ['lib']
